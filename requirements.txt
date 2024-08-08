@@ -2,8 +2,6 @@
 flask==3.0.3
 
 gunicorn==22.0.0
-h5py==3.11.0
-idna==3.7
 importlib-metadata==8.0.0
 importlib-resources==6.4.0
 inflect==7.3.1
@@ -25,28 +23,13 @@ pip==24.2
 pyparsing==3.1.2
 
 requests==2.32.3
-rich==13.7.1
 scikit-learn==1.5.1
 scipy==1.14.0
 seaborn==0.13.2
 setuptools==72.1.0
-six==1.16.0
-stack-data==0.6.3
 tensorboard==2.17.0
 tensorboard-data-server==0.7.2
 tensorflow==2.17.0
 tensorflow-intel==2.17.0
-termcolor==2.4.0
-threadpoolctl==3.5.0
-tomli==2.0.1
-tornado==6.4.1
-traitlets==5.14.3
-typeguard==4.3.0
-typing-extensions==4.12.2
-tzdata==2024.1
-urllib3==2.2.2
-wcwidth==0.2.13
-werkzeug==3.0.3
 wheel==0.44.0
-wrapt==1.16.0
-zipp==3.19.2
+
